@@ -2,7 +2,7 @@
 
 **个人项目**  
 
-[<code><img src="https://github.com/chenzhaoguang/keepjs/blob/main/public/image/logo/logo-blue.png"></code>](http://47.102.113.93)
+[<code><img src="https://github.com/chenzhaoguang/keepjs/blob/main/public/image/logo/logo-blue.png"></code>](http://www.keepjs.com)
 
 **社区主页**  
 
