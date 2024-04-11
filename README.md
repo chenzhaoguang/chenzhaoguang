@@ -1,8 +1,8 @@
 ### Hi 我是陈昭光
 
-**个人项目**  
+**个人博客**  
 
-[<code><img src="https://github.com/chenzhaoguang/keepjs/blob/main/public/image/logo/logo-blue.png"></code>](http://www.keepjs.com)
+[<code><img src="https://github.com/chenzhaoguang/keepjs/blob/main/public/image/logo/logo-blue.png"></code>](https://chenzhaoguang.github.io)
 
 **社区主页**  
 
