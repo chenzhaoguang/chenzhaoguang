@@ -2,7 +2,7 @@
 
 **个人博客**  
 
-[<code><img src="https://github.com/chenzhaoguang/keepjs/blob/main/public/image/logo/logo-blue.png"></code>](https://chenzhaoguang.github.io)
+- [博客](https://chenzhaoguang.github.io)
 
 **社区主页**  
 
